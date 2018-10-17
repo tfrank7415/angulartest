@@ -1,0 +1,2 @@
+# angulartest
+Deploying to azure
